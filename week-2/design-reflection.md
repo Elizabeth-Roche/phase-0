@@ -1,4 +1,4 @@
-![Site Map](/imgs/site-map.jpg)
+![Site Map](imgs/site-map.jpg)
 
 # What are the 6 Phases of Web Design?
 # What is your site's primary goal or purpose? What kind of content will your site feature?
