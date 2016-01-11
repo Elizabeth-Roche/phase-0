@@ -1,5 +1,5 @@
-![wireframe](imgs/wireframe-index.jpg)
-![blog wireframe](imgs/wireframe-blog-index.jpg)
+![wireframe](/imgs/wireframe-index.jpg)
+![blog wireframe](/imgs/wireframe-blog-index.jpg)
 #What is a wireframe?
 A wireframe is a 2-d blueprint of how you want your site or project to work. The wireframe shows the hierarchy of how information on the page will be displayed and consumed by the user.
 #What are the benefits of wireframing?
