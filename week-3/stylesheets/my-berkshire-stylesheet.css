@@ -1,0 +1,33 @@
+html {
+  background-color: red;
+}
+*{
+  color:#000080;
+  background-color: #ffffff;
+}
+a {
+  color: #800080;
+}
+a:visited {
+color: #ff0000;
+}
+li.small {
+  font-size: .5em;
+  list-style: none;
+}
+#header {
+  font-size: 150%;
+  font-weight: bolder !important;
+  text-align: center;
+  border-bottom: 1px solid #000000;
+}
+h1.BH:first-letter {
+  font-size: 200%;
+}
+#advertisement {
+  border-bottom: 1px solid #000000;
+  text-align: center;
+}
+#web-contact{
+  border-bottom: 1px solid #000000;
+}
