@@ -31,3 +31,15 @@ h1.BH:first-letter {
 #web-contact{
   border-bottom: 1px solid #000000;
 }
+/*
+What is important to know when linking an external file (like a stylesheet) to an HTML file?
+It's important to know where your stylesheet is so you can put the correct path in the link and get it set up properly.
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+I definitely see the importance of including divs throughout HTML in order to style. We had to add a few id's to various sections of the HTML in order to style it correctly. It was a little bit difficult getting the site the way we wanted it. We had some issues getting the links into two columns.
+What CSS did you use to modify the element style (like size, color, etc.)
+We used size, color, background color, margins, and borders.
+Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML? We did add ids into the HTML in order to style. The reason we did this was to streamline the styling process. We were able to look at the HTML and pick out what parts we wanted to style in a uniform way and then we associated an id with those areas.
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why? I think we had the cleaner code. The actual site does a lot of styling in the HTML. We did all of our styling in the CSS.
+
+
+*/
