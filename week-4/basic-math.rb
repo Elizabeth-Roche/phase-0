@@ -74,3 +74,4 @@ describe 'modulus' do
     expect(modulus).to eq num1.to_f % num2.to_f
   end
 end
+#I think this pairing session went well. We were able to discuss some concepts that I had been having some trouble with. I have been confused about margin vs. pairing and we were able to talk through the merits of both. We also discussed positioning and the differences between them. I am begining to feel more confident with CSS pairing but as our guide pointed out, we did use too many steps in some areas and made the solution more complicated than it needed to be.
