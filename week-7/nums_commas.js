@@ -79,7 +79,7 @@ function commas(integer) {
 
 
 // Reflection
-// What was it like to approach the problem from the perspective of JavaScript? Did you approach the problem differently?
-// What did you learn about iterating over arrays in JavaScript?
-// What was different about solving this problem in JavaScript?
-// What built-in methods did you find to incorporate in your refactored solution?
+// What was it like to approach the problem from the perspective of JavaScript? Did you approach the problem differently? I feel like we took the same approach to the problem in terms of thinking through the logic. The pseudocode looks exactly the same as what I would write for a Ruby challenge.
+// What did you learn about iterating over arrays in JavaScript? You really need to remember scope when iterating over arrays in JavaScript.
+// What was different about solving this problem in JavaScript? We created functions instead of methods and the syntax is different. The logic is largely the same.
+// What built-in methods did you find to incorporate in your refactored solution? We used splice.
