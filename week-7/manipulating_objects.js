@@ -19,14 +19,14 @@ var adam = {
   name: "Adam"
 };
 
-terah["spouce"]=adam;
+terah["spouse"]=adam;
 terah["weight"]=125;
 delete terah["eyeColor"];
-adam["spouce"]=terah;
+adam["spouse"]=terah;
 terah["children"] = {};
-terah.children["Carson"] = {name: "Carson"};
-terah.children["Carter"] = {name: "Carter"};
-terah.children["Colton"] = {name: "Colton"};
+terah.children["carson"] = {name: "Carson"};
+terah.children["carter"] = {name: "Carter"};
+terah.children["colton"] = {name: "Colton"};
 adam["children"] = terah.children;
 
 
