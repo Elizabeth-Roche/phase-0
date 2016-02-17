@@ -1,4 +1,4 @@
-![schema](/screenshot.png)
+![schema](screenshot.png)
 
 1. SELECT * FROM states;
 2. SELECT * FROM regions;
